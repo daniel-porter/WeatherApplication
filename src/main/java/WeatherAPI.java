@@ -12,7 +12,7 @@ import java.net.*;
 public class WeatherAPI {
 
     private static final String Base_URL = "http://api.openweathermap.org/data/2.5/weather";
-    private static final String API_KEY = "0b829abb018afe46bef7d39215e83704";
+    private static final String API_KEY = "";
     public String geoipCity;
     private String usersPublicIP;
 
